@@ -7,7 +7,7 @@
     <link rel="icon" href="/images/favicon.ico">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700" type="text/css">
-    <link rel="stylesheet" href="https://code.getmdl.io/1.2.1/material.indigo-pink.min.css">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.2.1/material.min.css">
     <link rel="stylesheet" href="/css/style.css">
     <script defer src="https://code.getmdl.io/1.2.1/material.min.js"></script>
 </head>

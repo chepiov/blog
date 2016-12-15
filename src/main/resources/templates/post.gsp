@@ -6,7 +6,8 @@
     <% include "menu.gsp" %>
     <main class="mdl-layout__content">
         <div class="demo-blog__posts mdl-grid">
-            <div class="mdl-cell mdl-cell--12-col mdl-card mdl-shadow--2dp">
+            <div class="mdl-cell mdl-cell--12-col">
+                ${content.body}
             </div>
         </div>
     </main>
