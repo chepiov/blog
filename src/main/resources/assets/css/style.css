@@ -11,6 +11,13 @@
     flex-shrink: 0;
 }
 
+a.demo-link:link,
+a.demo-link:visited,
+a.demo-link:hover,
+a.demo-link:active {
+    color: rgba(0,0,0,.54);
+}
+
 .demo-card-wide > .mdl-card__title {
     color: #ffffff;
     height: 100px;
