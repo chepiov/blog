@@ -59,7 +59,7 @@
                 </executions>
                 <configuration>
                     <inputDirectory>${project.basedir}/src/main/resources</inputDirectory>
-                    <outputDirectory>${project.build.directory}/${project.build.finalName}</outputDirectory>
+                    <outputDirectory>${project.basedir}/docs</outputDirectory>
                 </configuration>
             </plugin>
         </plugins>
