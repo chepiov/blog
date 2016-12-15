@@ -20,6 +20,10 @@
                     ${post.summary}
                 </div>
 
+                <div class="mdl-card__supporting-text">
+                    <small>${new java.text.SimpleDateFormat("dd MMMM yyyy", new Locale('ru')).format(post.date)}</small>
+                </div>
+
                 <div class="mdl-card__actions mdl-card--border">
                     <a href="${post.uri}" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
                         Читать
