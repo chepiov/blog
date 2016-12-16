@@ -15,7 +15,7 @@ a.demo-link:link,
 a.demo-link:visited,
 a.demo-link:hover,
 a.demo-link:active {
-    color: rgba(0,0,0,.54);
+    color: rgba(0, 0, 0, .54);
 }
 
 .demo-card-wide > .mdl-card__title {
@@ -37,17 +37,33 @@ a.demo-link:active {
 }
 
 .docs-toc ul {
-    border-left: solid 3px #C0EbF1;
+    border-left: solid 3px #83b1bb;
     padding-left: 20px;
     line-height: 28px
 }
 
-.docs-toc a {
+.docs-toc a, a.title {
     font-weight: 400;
-    color: #00BCD4
+    color: #83b1bb
 }
 
 .docs-toc li {
     font-size: 16px;
     list-style: none
+}
+
+.gsc-search-button {
+    visibility: hidden;
+    display: none
+}
+
+.gsc-control-cse {
+    padding: 0
+}
+
+a.title {
+    font-weight: 400;
+    color: #ffffff;
+    text-decoration: none;
+
 }
