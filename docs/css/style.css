@@ -36,6 +36,11 @@ a.demo-link:active {
     color: #bbbbbb;
 }
 
+.demo-blog__posts * p {
+    text-align: justify;
+    text-indent: 40px;
+}
+
 .docs-toc ul {
     border-left: solid 3px #83b1bb;
     padding-left: 20px;
