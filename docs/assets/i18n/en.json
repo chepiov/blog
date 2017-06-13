@@ -1,0 +1,15 @@
+{
+  "HOME": {
+    "SELECT": "en",
+    "TECH": "Tech",
+    "LIVE": "Live",
+    "ABOUT": "About",
+    "PROJECTS": "Projects",
+    "CATEGORIES": "Categories",
+    "ARCHIVES": "Archives",
+    "SEARCH": "Search",
+    "NEXT": "Next",
+    "PREV": "Previous",
+    "READ": "Read more"
+  }
+}
